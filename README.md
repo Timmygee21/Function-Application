@@ -52,6 +52,7 @@
 
 * Select "Go to resource" to view your new function app. You can also select Pin to dashboard. Pinning makes it easier to return to this function app resource from your dashboard.  
 
+
 # Deploying from VS code to Azure  
 
 * Search for "Publish" Select Azure / Right-click on the project in Solution Explorer and select "Publish"  
